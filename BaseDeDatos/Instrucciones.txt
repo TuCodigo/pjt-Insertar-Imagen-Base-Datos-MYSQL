@@ -1,0 +1,17 @@
+
+****Gracias por aver descargado el pruyecto,
+por favor no olvides suscribirte al canal.*** 
+
+---Solo les dire que recuerden importar
+la bse de datos o ejecutar el codigo
+para que se cree la table y que actualicen
+la variable de conexion con su:
+-servidor
+-nombre de la base de datos
+-usuario
+-contaseña.
+
+
+
+Gracias por aver descargado el pruyecto,
+por favor no olvides suscribirte al canal. 
